@@ -1,1 +1,1 @@
- My Sorting algorithms written in C usig Big O notation
+ My Sorting algorithms written in C using Big O notation partnered with josh
